@@ -7,9 +7,9 @@ Online Auction Platform using C (Linked List Implementation)
 
 ##👨‍💻 Team Members
 
-Member 1: uppendhra
+Member 1: T.upendera
 
-Member 2: sai harshith
+Member 2: J.Hema Harshith
 
 ##❓ Problem Statement
 
@@ -39,6 +39,7 @@ Efficient insertion and deletion operations.
        struct Product* next;
 
     };
+
 
 
 ##⚙️ Algorithm Explanation
@@ -77,11 +78,11 @@ Free memory using free
 
 5. Search Product
 
-Traverse list
+  Traverse list
 
-Compare IDs
+  Compare IDs
 
-Display if found
+  Display if found
 
 
 ##🛠️ Compilation Instructions
