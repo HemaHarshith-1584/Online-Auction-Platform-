@@ -1,9 +1,9 @@
-# Online-Auction-Platform-
-🛒 Online Auction Platform (C Project)
+# Offline-Auction-Platform-
+🛒 Offline Auction Platform (C Project)
 
 ##📌 Project Title
 
-Online Auction Platform using C (Linked List Implementation)
+offlineAuction Platform using C (Linked List Implementation)
 
 ##👨‍💻 Team Members
 
@@ -13,7 +13,7 @@ Member 2: J.Hema Harshith
 
 ##❓ Problem Statement
 
-The Online Auction Platform is a console-based application developed in C that allows users to manage auction items. Users can add products, update details, delete items, search for products, and display all available auction items.
+The offline Auction Platform is a console-based application developed in C that allows users to manage auction items. Users can add products, update details, delete items, search for products, and display all available auction items.
 
 The system simulates a basic auction environment using data structures and provides a menu-driven interface for easy interaction.
 
